@@ -1,0 +1,4 @@
+.env 
+*.json 
+Database_asli 
+*.db 
